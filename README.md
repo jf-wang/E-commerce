@@ -2,7 +2,7 @@
 
 ![demo](https://raw.githubusercontent.com/jf-wang/E-commerce/master/demoImg/demo1.png)
 
-![demo](https://raw.githubusercontent.com/jf-wang/E-commerce/master/demoImg/demo2.png
+![demo](https://raw.githubusercontent.com/jf-wang/E-commerce/master/demoImg/demo2.png)
 
 ![demo](https://raw.githubusercontent.com/jf-wang/E-commerce/master/demoImg/demo3.png)
 
